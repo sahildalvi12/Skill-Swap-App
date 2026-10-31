@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_discover"
+        android:icon="@drawable/discover"
+        android:title="Discover" />
+    <item
+        android:id="@+id/nav_matches"
+        android:icon="@drawable/matches"
+        android:title="Matches" />
+    <item
+        android:id="@+id/nav_sessions"
+        android:icon="@drawable/session"
+        android:title="Sessions" />
+    <item
+        android:id="@+id/nav_messages"
+        android:icon="@drawable/message"
+        android:title="Messages" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>
